@@ -1,0 +1,1 @@
+/mnt/users/tikn/.bash_logout
